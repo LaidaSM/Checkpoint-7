@@ -1,1 +1,2 @@
-# Checkpoint-7
+Devcamp FullStack course checkpoint 7
+
